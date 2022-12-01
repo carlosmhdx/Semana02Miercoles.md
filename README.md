@@ -5,3 +5,14 @@ Semana 02 - Día Miércoles - 30/11/2022
 
 ![Help the Lynx](https://user-images.githubusercontent.com/118006572/204936648-feceb84d-3ccc-4cc0-80bc-6a7b83be84df.png)
 
+# ODDEVEN
+
+Algoritmo ODDEVEN
+	
+	Leer X
+	
+	Resto <- X % 2
+	Imprimir Resto
+		
+FinAlgoritmo
+
