@@ -16,3 +16,31 @@ Algoritmo ODDEVEN
 		
 FinAlgoritmo
 
+# RegisterForm
+
+Algoritmo RegisterForm
+	
+	Imprimir "===== Registro de Usuario ====="
+	Imprimir "Introducir nombre"
+	Leer Nombre
+	Imprimir "Introducir apellido"
+	Leer Apellido
+	Imprimir "Introducir edad"
+	Leer Edad
+	Imprimir "Introducir correo"
+	Leer Correo
+	Imprimir "Introducir dirección"
+	Leer Direccion
+	
+	Limpiar Pantalla
+		
+	Imprimir "===== Datos de Usuario ====="
+	Imprimir "Nombre: " Nombre
+	Imprimir "Apellido: " Apellido
+	Imprimir "Edad: " Edad
+	Imprimir "Correo: " Correo
+	Imprimir "Dirección: " Direccion
+	Imprimir"============================="
+	
+FinAlgoritmo
+
